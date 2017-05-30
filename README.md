@@ -7,7 +7,7 @@ locally you need to serve up the content with a local http server, so
 something like the following should work:
 
 ```sh
- $ git clone https://hgtfs15.healthgrades.com/tfs/HealthGrades%20Portfolio/HealthGradesWebSite/_git/seomatic-presentation
+ $ git clone https://github.com/jshamley/git-contrib
  $ cd seomatic
  $ npm install
  $ npm start
