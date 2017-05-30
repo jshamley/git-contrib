@@ -1,0 +1,20 @@
+{
+  "name": "git-contrib",
+  "version": "1.0.0",
+  "description": "These are the notes for a presentation about contributing to Git for Northern Colorado JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hgtfs15.healthgrades.com/tfs/HealthGrades%20Portfolio/HealthGradesWebSite/_git/seomatic-presentation"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "reveal.js": "^3.4.1"
+  }
+}
