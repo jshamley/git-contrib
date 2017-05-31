@@ -5,7 +5,19 @@ Jeff Shamley | @jeff_shamley
 
 ---
 
-# SLIDES
+# LOCAL WORKING COPY
+
+---
+
+# WORK WORK WORK
+
+---
+
+# OPEN A PULL REQUEST
+
+---
+
+# REVIEW AND MERGE
 
 ---
 
