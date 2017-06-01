@@ -17,21 +17,21 @@ ___
 
 # LOCAL WORKING COPY
 ```
-git clone git@github.com:akrabat/zend-validator.git
+git clone git@github.com:USERNAME/nocojs.git
 ```
 
 ___
 
 # LOCAL WORKING COPY
 ```
-cd zend-validator
+cd nocojs
 ```
 
 ___
 
 # LOCAL WORKING COPY
 ```
-git remote add upstream git@github.com:zendframework/zend-validator.git
+git remote add upstream git@github.com:jshamley/nocojs.git
 ```
 
 ---
