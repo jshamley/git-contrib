@@ -37,10 +37,36 @@ git remote add upstream git@github.com:zendframework/zend-validator.git
 ---
 
 # WORK WORK WORK
+<!-- .slide: data-background="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" -->
+
+___
+
+# WORK WORK WORK
+
+```
+$ git checkout master
+$ git pull upstream master && git push origin master
+$ git checkout -b feature/readme-update
+```
+
+___
+
+# WORK WORK WORK
+
+```
+git commit . -m "readme updates"
+git push -u origin feature/readme-update
+```
 
 ---
 
 # OPEN A PULL REQUEST
+
+___
+
+# OPEN A PULL REQUEST
+
+
 
 ---
 
