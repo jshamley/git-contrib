@@ -8,7 +8,7 @@ something like the following should work:
 
 ```sh
  $ git clone https://github.com/jshamley/git-contrib
- $ cd seomatic
+ $ cd git-contrib
  $ npm install
  $ npm start
  Available on: http://127.0.0.1:8001
