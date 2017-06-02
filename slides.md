@@ -46,7 +46,7 @@ ___
 ```
 $ git checkout master
 $ git pull upstream master && git push origin master
-$ git checkout -b feature/readme-update
+$ git checkout -b feature/readme-updates
 ```
 
 ___
@@ -60,7 +60,7 @@ ___
 
 ```
 git commit . -m "readme updates"
-git push -u origin feature/readme-update
+git push -u origin feature/readme-updates
 ```
 
 ---
@@ -70,12 +70,21 @@ git push -u origin feature/readme-update
 ___
 
 # OPEN A PULL REQUEST
+![]()
 
+___
 
+# OPEN A PULL REQUEST
+![]()
 
 ---
 
 # REVIEW AND MERGE
+
+___
+
+#REVIEW AND MERGE
+![]()
 
 ---
 
