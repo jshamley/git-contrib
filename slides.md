@@ -13,6 +13,7 @@ ___
 
 Fork the repo on Github
 ![](/assets/fork.png)
+https://github.com/jshamley/nocojs
 
 ___
 
@@ -83,8 +84,12 @@ ___
 
 ___
 
-#REVIEW AND MERGE
+# REVIEW AND MERGE
 ![](/assets/merge.png)
+
+---
+
+# SUCCESS!!!
 
 ---
 
