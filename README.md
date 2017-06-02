@@ -1,4 +1,4 @@
-# SEOmatic Presentation
+# Contributing to Git Presentation
 
 These are the notes for a presentation about Contributing to Git for Northern Colorado JavaScript
 

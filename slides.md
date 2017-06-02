@@ -70,12 +70,12 @@ git push -u origin feature/readme-updates
 ___
 
 # OPEN A PULL REQUEST
-![]()
+![](/assets/create_pull.png)
 
 ___
 
 # OPEN A PULL REQUEST
-![]()
+![](/assets/pull.png)
 
 ---
 
@@ -84,7 +84,7 @@ ___
 ___
 
 #REVIEW AND MERGE
-![]()
+![](/assets/merge.png)
 
 ---
 
