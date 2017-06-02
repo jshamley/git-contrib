@@ -12,6 +12,7 @@ ___
 # LOCAL WORKING COPY
 
 Fork the repo on Github
+![](/assets/fork.png)
 
 ___
 
@@ -36,8 +37,7 @@ git remote add upstream git@github.com:jshamley/nocojs.git
 
 ---
 
-# WORK WORK WORK
-<!-- .slide: data-background="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" -->
+# WORK WORK WORK 
 
 ___
 
@@ -48,6 +48,11 @@ $ git checkout master
 $ git pull upstream master && git push origin master
 $ git checkout -b feature/readme-update
 ```
+
+___
+
+# WORK WORK WORK
+<!-- .slide: data-background="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" -->
 
 ___
 
